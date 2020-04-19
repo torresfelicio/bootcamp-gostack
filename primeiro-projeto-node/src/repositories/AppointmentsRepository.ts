@@ -6,7 +6,7 @@ interface CreateAppointmentDTO {
   date: Date
 }
 
-class AppointmentsRepositoriy {
+class AppointmentsRepository {
   private appointments: Appointment[];
 
   constructor() {
@@ -30,4 +30,4 @@ public findByDate(date: Date): Appointment | null {
     return appointment;
   }
 }
-export default AppointmentsRepositoriy;
+export default AppointmentsRepository;
