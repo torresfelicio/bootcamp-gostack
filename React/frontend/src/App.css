@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: rgb(54, 5, 32);
+  font: 15px sans-serif;
+  color: aliceblue;
+}
+ul, li {
+  margin-top: 10px;
+}
+
+button {
+  margin-top: 10px;
+  background: antiquewhite;
+  width: 150px;
+  height: 60px;
+  font-size: 15px;
+  font: bold;
+  color: black;
+}

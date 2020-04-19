@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Curso javascript</title>
+    </head>
+    <body>
+        <button class="botao">Vai</button>
+
+
+    <script>
+
+    var btn = document.querySelector('button.botao');
+    btn.onclick = function(){
+        var element = document.createElement('a');
+        element.setAttribute('href', '#');
+        element.setAttribute('title', 'BOX');
+
+        var text = document.createTextNode('BOXX');
+        element.appendChild(text);
+            
+        var body = document.querySelector('button');
+        body.appendChild(element);
+
+        var box = document.querySelector('button');
+        box.style.width = 100;
+        box.style.height = 100;
+        box.style.backgroundColor = '#f00';
+        }
+        
+
+    </script>
+    </body>
+
+</html>

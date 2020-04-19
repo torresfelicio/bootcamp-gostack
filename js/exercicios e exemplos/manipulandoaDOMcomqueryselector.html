@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Curso javascript</title>
+    </head>
+    <body>
+    <div id="app">
+        <input type="text" name="nome" id="nome" class="nome" />
+        <button class="botao">adicionar</button>
+    </div>
+
+
+    <script>
+        //var inputElement = document.getElementById('nome');
+        //var inputElement = document.getElementsByTagName('input')[0];
+        //var inputElement = document.getElementsByName('nome');
+        //var inputElement = document.querySelector('body div#app input');
+        var inputelemt = document.querySelector('input[name=nome'); //pegando o valor do input e passando para uma variavel
+        var btn = document.querySelector('button.botao');
+        btn.onclick = function(){
+            var text = inputelemt.value;     //pegando o valor
+            alert(text);
+        }
+       
+    </script>
+    </body>
+
+</html>
