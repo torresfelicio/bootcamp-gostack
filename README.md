@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="#rocket-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#como-executar">Como Executar</a>
 </p>
 
 
@@ -30,7 +30,7 @@ Esse Repositorio contem o conteudo aprendido na [RocketSeat GoStack Bootcamp](ht
 -  [Docker](https://www.docker.com/)
 -  [TypeScript](https://www.typescriptlang.org/)
 -  [React Router v4](https://github.com/ReactTraining/react-router)
--  [styled-components](https://www.styled-components.com/)
+-  [Styled-components](https://www.styled-components.com/)
 -  [GitHub REST API v3](https://developer.github.com/v3/)
 -  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
   
