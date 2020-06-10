@@ -36,7 +36,7 @@ Esse Repositorio contem o conteudo aprendido na [RocketSeat GoStack Bootcamp](ht
   
 ## Como executar
 
-Para executar os projetos contidos, executo o clone e dentro das pastas dos projetos rode os codigos a baixo.
+Para executar os projetos contidos, execute o clone e dentro das pastas dos projetos rode os codigos a baixo.
 
 ```bash
 # Clone this repository
